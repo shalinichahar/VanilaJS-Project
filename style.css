@@ -1,0 +1,70 @@
+*{
+
+}
+
+.container{
+    
+    display: flex;
+    flex-direction: column;
+   width: 50vw;
+   margin: auto;
+   padding: 2;
+
+    background-color: #B2AC88;
+    text-align: center;
+    
+}
+
+#check-button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px 32px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+input{
+    width: auto;
+
+  padding: 12px 20px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+table, td, th {
+    border: 1px solid black;
+ }
+
+caption{
+    padding-bottom: 10px;
+    font-size: 20px;
+    color: dark-grey;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    padding: 10px;
+}
+
+th{
+    height: 40px;
+}
+
+td{
+    text-align: centre;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 16px;
+    margin: 5px;
+}
+
+
+
+  
